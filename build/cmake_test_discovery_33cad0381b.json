@@ -1,0 +1,233 @@
+{
+  "tests": 37,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "RMSPolicyTest",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "ShorterPeriodHasHigherPriority",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\RMSPolicyTest.cpp",
+          "line": 10
+        },
+        {
+          "name": "LongerPeriodHasLowerPriority",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\RMSPolicyTest.cpp",
+          "line": 39
+        },
+        {
+          "name": "EqualPeriodsDoNotHaveHigherPriority",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\RMSPolicyTest.cpp",
+          "line": 68
+        },
+        {
+          "name": "NullTaskIsHandledSafely",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\RMSPolicyTest.cpp",
+          "line": 97
+        }
+      ]
+    },
+    {
+      "name": "FixedPriorityPolicyTest",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "HigherPriorityTaskIsSelected",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\FixedPriorityPolicyTest.cpp",
+          "line": 10
+        },
+        {
+          "name": "LowerPriorityTaskIsNotSelected",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\FixedPriorityPolicyTest.cpp",
+          "line": 39
+        },
+        {
+          "name": "EqualPriorityDoesNotHaveHigherPriority",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\FixedPriorityPolicyTest.cpp",
+          "line": 68
+        },
+        {
+          "name": "NullTaskIsHandledSafely",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\FixedPriorityPolicyTest.cpp",
+          "line": 97
+        }
+      ]
+    },
+    {
+      "name": "ReadyQueueTest",
+      "tests": 5,
+      "testsuite": [
+        {
+          "name": "StartsEmpty",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\ReadyQueueTest.cpp",
+          "line": 20
+        },
+        {
+          "name": "AddsTask",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\ReadyQueueTest.cpp",
+          "line": 29
+        },
+        {
+          "name": "ReturnsHighestPriorityTask",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\ReadyQueueTest.cpp",
+          "line": 50
+        },
+        {
+          "name": "RemovesTaskAfterSelection",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\ReadyQueueTest.cpp",
+          "line": 84
+        },
+        {
+          "name": "ReturnsNullWhenEmpty",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\ReadyQueueTest.cpp",
+          "line": 107
+        }
+      ]
+    },
+    {
+      "name": "VirtualClockTest",
+      "tests": 5,
+      "testsuite": [
+        {
+          "name": "StartsAtZero",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\simulation\\VirtualClockTest.cpp",
+          "line": 5
+        },
+        {
+          "name": "AdvancesTimeCorrectly",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\simulation\\VirtualClockTest.cpp",
+          "line": 12
+        },
+        {
+          "name": "AccumulatesMultipleTimeAdvances",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\simulation\\VirtualClockTest.cpp",
+          "line": 21
+        },
+        {
+          "name": "IgnoresNegativeTimeAdvance",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\simulation\\VirtualClockTest.cpp",
+          "line": 32
+        },
+        {
+          "name": "ResetSetsTimeToZero",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\simulation\\VirtualClockTest.cpp",
+          "line": 42
+        }
+      ]
+    },
+    {
+      "name": "ConfigManagerTest",
+      "tests": 5,
+      "testsuite": [
+        {
+          "name": "LoadsExistingConfigurationFile",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\configuration\\ConfigManagerTest.cpp",
+          "line": 10
+        },
+        {
+          "name": "RejectsMissingConfigurationFile",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\configuration\\ConfigManagerTest.cpp",
+          "line": 21
+        },
+        {
+          "name": "AcceptsValidTaskConfiguration",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\configuration\\ConfigManagerTest.cpp",
+          "line": 30
+        },
+        {
+          "name": "RejectsEmptyTaskConfiguration",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\configuration\\ConfigManagerTest.cpp",
+          "line": 51
+        },
+        {
+          "name": "RejectsInvalidTaskPriority",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\configuration\\ConfigManagerTest.cpp",
+          "line": 60
+        }
+      ]
+    },
+    {
+      "name": "TaskTest",
+      "tests": 8,
+      "testsuite": [
+        {
+          "name": "CreatesSensorTaskCorrectly",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 9
+        },
+        {
+          "name": "CreatesControlTaskCorrectly",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 28
+        },
+        {
+          "name": "CreatesSafetyTaskCorrectly",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 47
+        },
+        {
+          "name": "InitialRemainingTimeMatchesExecutionTime",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 66
+        },
+        {
+          "name": "ExecutesTaskAndUpdatesRemainingTime",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 81
+        },
+        {
+          "name": "TaskCompletesWhenExecutionTimeIsFinished",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 99
+        },
+        {
+          "name": "ResetExecutionMakesTaskReady",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 117
+        },
+        {
+          "name": "TaskPriorityCanBeUpdated",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 136
+        }
+      ]
+    },
+    {
+      "name": "TaskManagerTest",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "AddsTasksSuccessfully",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 152
+        },
+        {
+          "name": "FindsTaskById",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 171
+        },
+        {
+          "name": "ReturnsNullForUnknownTaskId",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 192
+        },
+        {
+          "name": "RemovesTaskSuccessfully",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 200
+        },
+        {
+          "name": "ReturnsFalseWhenRemovingUnknownTask",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 219
+        },
+        {
+          "name": "ReturnsTasksReadyForRelease",
+          "file": "C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp",
+          "line": 225
+        }
+      ]
+    }
+  ]
+}

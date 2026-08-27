@@ -1,0 +1,188 @@
+[
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\AutomotiveScheduler.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\AutomotiveScheduler.dir\\main.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\main.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/main.cpp",
+  "output": "CMakeFiles/AutomotiveScheduler.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\AutomotiveScheduler.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\AutomotiveScheduler.dir\\src\\task\\Task.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\task\\Task.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/task/Task.cpp",
+  "output": "CMakeFiles/AutomotiveScheduler.dir/src/task/Task.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\AutomotiveScheduler.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\AutomotiveScheduler.dir\\src\\task\\SensorTask.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\task\\SensorTask.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/task/SensorTask.cpp",
+  "output": "CMakeFiles/AutomotiveScheduler.dir/src/task/SensorTask.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\AutomotiveScheduler.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\AutomotiveScheduler.dir\\src\\task\\ControlTask.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\task\\ControlTask.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/task/ControlTask.cpp",
+  "output": "CMakeFiles/AutomotiveScheduler.dir/src/task/ControlTask.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\AutomotiveScheduler.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\AutomotiveScheduler.dir\\src\\task\\SafetyTask.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\task\\SafetyTask.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/task/SafetyTask.cpp",
+  "output": "CMakeFiles/AutomotiveScheduler.dir/src/task/SafetyTask.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\AutomotiveScheduler.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\AutomotiveScheduler.dir\\src\\task\\TaskManager.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\task\\TaskManager.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/task/TaskManager.cpp",
+  "output": "CMakeFiles/AutomotiveScheduler.dir/src/task/TaskManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\AutomotiveScheduler.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\AutomotiveScheduler.dir\\src\\configuration\\ConfigManager.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\configuration\\ConfigManager.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/configuration/ConfigManager.cpp",
+  "output": "CMakeFiles/AutomotiveScheduler.dir/src/configuration/ConfigManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\AutomotiveScheduler.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\AutomotiveScheduler.dir\\src\\simulation\\VirtualClock.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\simulation\\VirtualClock.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/simulation/VirtualClock.cpp",
+  "output": "CMakeFiles/AutomotiveScheduler.dir/src/simulation/VirtualClock.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\AutomotiveScheduler.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\AutomotiveScheduler.dir\\src\\scheduler\\ReadyQueue.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\scheduler\\ReadyQueue.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/scheduler/ReadyQueue.cpp",
+  "output": "CMakeFiles/AutomotiveScheduler.dir/src/scheduler/ReadyQueue.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\AutomotiveScheduler.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\AutomotiveScheduler.dir\\src\\scheduler\\FixedPriorityPolicy.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\scheduler\\FixedPriorityPolicy.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/scheduler/FixedPriorityPolicy.cpp",
+  "output": "CMakeFiles/AutomotiveScheduler.dir/src/scheduler/FixedPriorityPolicy.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\AutomotiveScheduler.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\AutomotiveScheduler.dir\\src\\scheduler\\RMSPolicy.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\scheduler\\RMSPolicy.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/scheduler/RMSPolicy.cpp",
+  "output": "CMakeFiles/AutomotiveScheduler.dir/src/scheduler/RMSPolicy.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\tests\\task\\TaskTest.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\task\\TaskTest.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/tests/task/TaskTest.cpp",
+  "output": "CMakeFiles/TaskTests.dir/tests/task/TaskTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\tests\\configuration\\ConfigManagerTest.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\configuration\\ConfigManagerTest.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/tests/configuration/ConfigManagerTest.cpp",
+  "output": "CMakeFiles/TaskTests.dir/tests/configuration/ConfigManagerTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\tests\\simulation\\VirtualClockTest.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\simulation\\VirtualClockTest.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/tests/simulation/VirtualClockTest.cpp",
+  "output": "CMakeFiles/TaskTests.dir/tests/simulation/VirtualClockTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\tests\\scheduler\\ReadyQueueTest.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\ReadyQueueTest.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/tests/scheduler/ReadyQueueTest.cpp",
+  "output": "CMakeFiles/TaskTests.dir/tests/scheduler/ReadyQueueTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\tests\\scheduler\\FixedPriorityPolicyTest.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\FixedPriorityPolicyTest.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/tests/scheduler/FixedPriorityPolicyTest.cpp",
+  "output": "CMakeFiles/TaskTests.dir/tests/scheduler/FixedPriorityPolicyTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\tests\\scheduler\\RMSPolicyTest.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\tests\\scheduler\\RMSPolicyTest.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/tests/scheduler/RMSPolicyTest.cpp",
+  "output": "CMakeFiles/TaskTests.dir/tests/scheduler/RMSPolicyTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\src\\task\\Task.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\task\\Task.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/task/Task.cpp",
+  "output": "CMakeFiles/TaskTests.dir/src/task/Task.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\src\\task\\SensorTask.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\task\\SensorTask.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/task/SensorTask.cpp",
+  "output": "CMakeFiles/TaskTests.dir/src/task/SensorTask.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\src\\task\\ControlTask.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\task\\ControlTask.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/task/ControlTask.cpp",
+  "output": "CMakeFiles/TaskTests.dir/src/task/ControlTask.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\src\\task\\SafetyTask.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\task\\SafetyTask.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/task/SafetyTask.cpp",
+  "output": "CMakeFiles/TaskTests.dir/src/task/SafetyTask.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\src\\task\\TaskManager.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\task\\TaskManager.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/task/TaskManager.cpp",
+  "output": "CMakeFiles/TaskTests.dir/src/task/TaskManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\src\\configuration\\ConfigManager.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\configuration\\ConfigManager.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/configuration/ConfigManager.cpp",
+  "output": "CMakeFiles/TaskTests.dir/src/configuration/ConfigManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\src\\simulation\\VirtualClock.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\simulation\\VirtualClock.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/simulation/VirtualClock.cpp",
+  "output": "CMakeFiles/TaskTests.dir/src/simulation/VirtualClock.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\src\\scheduler\\ReadyQueue.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\scheduler\\ReadyQueue.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/scheduler/ReadyQueue.cpp",
+  "output": "CMakeFiles/TaskTests.dir/src/scheduler/ReadyQueue.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\src\\scheduler\\FixedPriorityPolicy.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\scheduler\\FixedPriorityPolicy.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/scheduler/FixedPriorityPolicy.cpp",
+  "output": "CMakeFiles/TaskTests.dir/src/scheduler/FixedPriorityPolicy.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\TaskTests.dir\\includes_CXX.rsp -std=c++17 -o CMakeFiles\\TaskTests.dir\\src\\scheduler\\RMSPolicy.cpp.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\src\\scheduler\\RMSPolicy.cpp\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/src/scheduler/RMSPolicy.cpp",
+  "output": "CMakeFiles/TaskTests.dir/src/scheduler/RMSPolicy.cpp.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/_deps/googletest-build/googlemock",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\gmock.dir\\includes_CXX.rsp -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/_deps/googletest-build/googlemock",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\gmock_main.dir\\includes_CXX.rsp -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/_deps/googletest-build/googletest",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\gtest.dir\\includes_CXX.rsp -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/_deps/googletest-build/googletest",
+  "command": "E:\\CTOOLS\\mingw32\\bin\\c++.exe  @CMakeFiles\\gtest_main.dir\\includes_CXX.rsp -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\BHUVANASHREE T\\Desktop\\AutomotiveScheduler\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]

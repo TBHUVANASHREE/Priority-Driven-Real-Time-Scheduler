@@ -1,0 +1,1002 @@
+Start testing: Aug 27 21:28 India Standard Time
+----------------------------------------------------------
+1/37 Testing: RMSPolicyTest.ShorterPeriodHasHigherPriority
+1/37 Test: RMSPolicyTest.ShorterPeriodHasHigherPriority
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=RMSPolicyTest.ShorterPeriodHasHigherPriority" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"RMSPolicyTest.ShorterPeriodHasHigherPriority" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = RMSPolicyTest.ShorterPeriodHasHigherPriority
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RMSPolicyTest
+[ RUN      ] RMSPolicyTest.ShorterPeriodHasHigherPriority
+[       OK ] RMSPolicyTest.ShorterPeriodHasHigherPriority (0 ms)
+[----------] 1 test from RMSPolicyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RMSPolicyTest.ShorterPeriodHasHigherPriority" end time: Aug 27 21:28 India Standard Time
+"RMSPolicyTest.ShorterPeriodHasHigherPriority" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/37 Testing: RMSPolicyTest.LongerPeriodHasLowerPriority
+2/37 Test: RMSPolicyTest.LongerPeriodHasLowerPriority
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=RMSPolicyTest.LongerPeriodHasLowerPriority" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"RMSPolicyTest.LongerPeriodHasLowerPriority" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = RMSPolicyTest.LongerPeriodHasLowerPriority
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RMSPolicyTest
+[ RUN      ] RMSPolicyTest.LongerPeriodHasLowerPriority
+[       OK ] RMSPolicyTest.LongerPeriodHasLowerPriority (0 ms)
+[----------] 1 test from RMSPolicyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RMSPolicyTest.LongerPeriodHasLowerPriority" end time: Aug 27 21:28 India Standard Time
+"RMSPolicyTest.LongerPeriodHasLowerPriority" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/37 Testing: RMSPolicyTest.EqualPeriodsDoNotHaveHigherPriority
+3/37 Test: RMSPolicyTest.EqualPeriodsDoNotHaveHigherPriority
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=RMSPolicyTest.EqualPeriodsDoNotHaveHigherPriority" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"RMSPolicyTest.EqualPeriodsDoNotHaveHigherPriority" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = RMSPolicyTest.EqualPeriodsDoNotHaveHigherPriority
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RMSPolicyTest
+[ RUN      ] RMSPolicyTest.EqualPeriodsDoNotHaveHigherPriority
+[       OK ] RMSPolicyTest.EqualPeriodsDoNotHaveHigherPriority (0 ms)
+[----------] 1 test from RMSPolicyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RMSPolicyTest.EqualPeriodsDoNotHaveHigherPriority" end time: Aug 27 21:28 India Standard Time
+"RMSPolicyTest.EqualPeriodsDoNotHaveHigherPriority" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/37 Testing: RMSPolicyTest.NullTaskIsHandledSafely
+4/37 Test: RMSPolicyTest.NullTaskIsHandledSafely
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=RMSPolicyTest.NullTaskIsHandledSafely" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"RMSPolicyTest.NullTaskIsHandledSafely" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = RMSPolicyTest.NullTaskIsHandledSafely
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RMSPolicyTest
+[ RUN      ] RMSPolicyTest.NullTaskIsHandledSafely
+[       OK ] RMSPolicyTest.NullTaskIsHandledSafely (0 ms)
+[----------] 1 test from RMSPolicyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RMSPolicyTest.NullTaskIsHandledSafely" end time: Aug 27 21:28 India Standard Time
+"RMSPolicyTest.NullTaskIsHandledSafely" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/37 Testing: FixedPriorityPolicyTest.HigherPriorityTaskIsSelected
+5/37 Test: FixedPriorityPolicyTest.HigherPriorityTaskIsSelected
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=FixedPriorityPolicyTest.HigherPriorityTaskIsSelected" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"FixedPriorityPolicyTest.HigherPriorityTaskIsSelected" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FixedPriorityPolicyTest.HigherPriorityTaskIsSelected
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FixedPriorityPolicyTest
+[ RUN      ] FixedPriorityPolicyTest.HigherPriorityTaskIsSelected
+[       OK ] FixedPriorityPolicyTest.HigherPriorityTaskIsSelected (0 ms)
+[----------] 1 test from FixedPriorityPolicyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FixedPriorityPolicyTest.HigherPriorityTaskIsSelected" end time: Aug 27 21:28 India Standard Time
+"FixedPriorityPolicyTest.HigherPriorityTaskIsSelected" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/37 Testing: FixedPriorityPolicyTest.LowerPriorityTaskIsNotSelected
+6/37 Test: FixedPriorityPolicyTest.LowerPriorityTaskIsNotSelected
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=FixedPriorityPolicyTest.LowerPriorityTaskIsNotSelected" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"FixedPriorityPolicyTest.LowerPriorityTaskIsNotSelected" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FixedPriorityPolicyTest.LowerPriorityTaskIsNotSelected
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FixedPriorityPolicyTest
+[ RUN      ] FixedPriorityPolicyTest.LowerPriorityTaskIsNotSelected
+[       OK ] FixedPriorityPolicyTest.LowerPriorityTaskIsNotSelected (0 ms)
+[----------] 1 test from FixedPriorityPolicyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FixedPriorityPolicyTest.LowerPriorityTaskIsNotSelected" end time: Aug 27 21:28 India Standard Time
+"FixedPriorityPolicyTest.LowerPriorityTaskIsNotSelected" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/37 Testing: FixedPriorityPolicyTest.EqualPriorityDoesNotHaveHigherPriority
+7/37 Test: FixedPriorityPolicyTest.EqualPriorityDoesNotHaveHigherPriority
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=FixedPriorityPolicyTest.EqualPriorityDoesNotHaveHigherPriority" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"FixedPriorityPolicyTest.EqualPriorityDoesNotHaveHigherPriority" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FixedPriorityPolicyTest.EqualPriorityDoesNotHaveHigherPriority
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FixedPriorityPolicyTest
+[ RUN      ] FixedPriorityPolicyTest.EqualPriorityDoesNotHaveHigherPriority
+[       OK ] FixedPriorityPolicyTest.EqualPriorityDoesNotHaveHigherPriority (0 ms)
+[----------] 1 test from FixedPriorityPolicyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FixedPriorityPolicyTest.EqualPriorityDoesNotHaveHigherPriority" end time: Aug 27 21:28 India Standard Time
+"FixedPriorityPolicyTest.EqualPriorityDoesNotHaveHigherPriority" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/37 Testing: FixedPriorityPolicyTest.NullTaskIsHandledSafely
+8/37 Test: FixedPriorityPolicyTest.NullTaskIsHandledSafely
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=FixedPriorityPolicyTest.NullTaskIsHandledSafely" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"FixedPriorityPolicyTest.NullTaskIsHandledSafely" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = FixedPriorityPolicyTest.NullTaskIsHandledSafely
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FixedPriorityPolicyTest
+[ RUN      ] FixedPriorityPolicyTest.NullTaskIsHandledSafely
+[       OK ] FixedPriorityPolicyTest.NullTaskIsHandledSafely (0 ms)
+[----------] 1 test from FixedPriorityPolicyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FixedPriorityPolicyTest.NullTaskIsHandledSafely" end time: Aug 27 21:28 India Standard Time
+"FixedPriorityPolicyTest.NullTaskIsHandledSafely" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/37 Testing: ReadyQueueTest.StartsEmpty
+9/37 Test: ReadyQueueTest.StartsEmpty
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=ReadyQueueTest.StartsEmpty" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"ReadyQueueTest.StartsEmpty" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ReadyQueueTest.StartsEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ReadyQueueTest
+[ RUN      ] ReadyQueueTest.StartsEmpty
+[       OK ] ReadyQueueTest.StartsEmpty (0 ms)
+[----------] 1 test from ReadyQueueTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ReadyQueueTest.StartsEmpty" end time: Aug 27 21:28 India Standard Time
+"ReadyQueueTest.StartsEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/37 Testing: ReadyQueueTest.AddsTask
+10/37 Test: ReadyQueueTest.AddsTask
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=ReadyQueueTest.AddsTask" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"ReadyQueueTest.AddsTask" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ReadyQueueTest.AddsTask
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ReadyQueueTest
+[ RUN      ] ReadyQueueTest.AddsTask
+[       OK ] ReadyQueueTest.AddsTask (0 ms)
+[----------] 1 test from ReadyQueueTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ReadyQueueTest.AddsTask" end time: Aug 27 21:28 India Standard Time
+"ReadyQueueTest.AddsTask" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/37 Testing: ReadyQueueTest.ReturnsHighestPriorityTask
+11/37 Test: ReadyQueueTest.ReturnsHighestPriorityTask
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=ReadyQueueTest.ReturnsHighestPriorityTask" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"ReadyQueueTest.ReturnsHighestPriorityTask" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ReadyQueueTest.ReturnsHighestPriorityTask
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ReadyQueueTest
+[ RUN      ] ReadyQueueTest.ReturnsHighestPriorityTask
+[       OK ] ReadyQueueTest.ReturnsHighestPriorityTask (0 ms)
+[----------] 1 test from ReadyQueueTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ReadyQueueTest.ReturnsHighestPriorityTask" end time: Aug 27 21:28 India Standard Time
+"ReadyQueueTest.ReturnsHighestPriorityTask" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/37 Testing: ReadyQueueTest.RemovesTaskAfterSelection
+12/37 Test: ReadyQueueTest.RemovesTaskAfterSelection
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=ReadyQueueTest.RemovesTaskAfterSelection" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"ReadyQueueTest.RemovesTaskAfterSelection" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ReadyQueueTest.RemovesTaskAfterSelection
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ReadyQueueTest
+[ RUN      ] ReadyQueueTest.RemovesTaskAfterSelection
+[       OK ] ReadyQueueTest.RemovesTaskAfterSelection (0 ms)
+[----------] 1 test from ReadyQueueTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ReadyQueueTest.RemovesTaskAfterSelection" end time: Aug 27 21:28 India Standard Time
+"ReadyQueueTest.RemovesTaskAfterSelection" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/37 Testing: ReadyQueueTest.ReturnsNullWhenEmpty
+13/37 Test: ReadyQueueTest.ReturnsNullWhenEmpty
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=ReadyQueueTest.ReturnsNullWhenEmpty" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"ReadyQueueTest.ReturnsNullWhenEmpty" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ReadyQueueTest.ReturnsNullWhenEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ReadyQueueTest
+[ RUN      ] ReadyQueueTest.ReturnsNullWhenEmpty
+[       OK ] ReadyQueueTest.ReturnsNullWhenEmpty (0 ms)
+[----------] 1 test from ReadyQueueTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ReadyQueueTest.ReturnsNullWhenEmpty" end time: Aug 27 21:28 India Standard Time
+"ReadyQueueTest.ReturnsNullWhenEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/37 Testing: VirtualClockTest.StartsAtZero
+14/37 Test: VirtualClockTest.StartsAtZero
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=VirtualClockTest.StartsAtZero" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"VirtualClockTest.StartsAtZero" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = VirtualClockTest.StartsAtZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VirtualClockTest
+[ RUN      ] VirtualClockTest.StartsAtZero
+[       OK ] VirtualClockTest.StartsAtZero (0 ms)
+[----------] 1 test from VirtualClockTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"VirtualClockTest.StartsAtZero" end time: Aug 27 21:28 India Standard Time
+"VirtualClockTest.StartsAtZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/37 Testing: VirtualClockTest.AdvancesTimeCorrectly
+15/37 Test: VirtualClockTest.AdvancesTimeCorrectly
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=VirtualClockTest.AdvancesTimeCorrectly" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"VirtualClockTest.AdvancesTimeCorrectly" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = VirtualClockTest.AdvancesTimeCorrectly
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VirtualClockTest
+[ RUN      ] VirtualClockTest.AdvancesTimeCorrectly
+[       OK ] VirtualClockTest.AdvancesTimeCorrectly (0 ms)
+[----------] 1 test from VirtualClockTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"VirtualClockTest.AdvancesTimeCorrectly" end time: Aug 27 21:28 India Standard Time
+"VirtualClockTest.AdvancesTimeCorrectly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/37 Testing: VirtualClockTest.AccumulatesMultipleTimeAdvances
+16/37 Test: VirtualClockTest.AccumulatesMultipleTimeAdvances
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=VirtualClockTest.AccumulatesMultipleTimeAdvances" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"VirtualClockTest.AccumulatesMultipleTimeAdvances" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = VirtualClockTest.AccumulatesMultipleTimeAdvances
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VirtualClockTest
+[ RUN      ] VirtualClockTest.AccumulatesMultipleTimeAdvances
+[       OK ] VirtualClockTest.AccumulatesMultipleTimeAdvances (0 ms)
+[----------] 1 test from VirtualClockTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"VirtualClockTest.AccumulatesMultipleTimeAdvances" end time: Aug 27 21:28 India Standard Time
+"VirtualClockTest.AccumulatesMultipleTimeAdvances" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/37 Testing: VirtualClockTest.IgnoresNegativeTimeAdvance
+17/37 Test: VirtualClockTest.IgnoresNegativeTimeAdvance
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=VirtualClockTest.IgnoresNegativeTimeAdvance" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"VirtualClockTest.IgnoresNegativeTimeAdvance" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = VirtualClockTest.IgnoresNegativeTimeAdvance
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VirtualClockTest
+[ RUN      ] VirtualClockTest.IgnoresNegativeTimeAdvance
+[       OK ] VirtualClockTest.IgnoresNegativeTimeAdvance (0 ms)
+[----------] 1 test from VirtualClockTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"VirtualClockTest.IgnoresNegativeTimeAdvance" end time: Aug 27 21:28 India Standard Time
+"VirtualClockTest.IgnoresNegativeTimeAdvance" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/37 Testing: VirtualClockTest.ResetSetsTimeToZero
+18/37 Test: VirtualClockTest.ResetSetsTimeToZero
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=VirtualClockTest.ResetSetsTimeToZero" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"VirtualClockTest.ResetSetsTimeToZero" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = VirtualClockTest.ResetSetsTimeToZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VirtualClockTest
+[ RUN      ] VirtualClockTest.ResetSetsTimeToZero
+[       OK ] VirtualClockTest.ResetSetsTimeToZero (0 ms)
+[----------] 1 test from VirtualClockTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"VirtualClockTest.ResetSetsTimeToZero" end time: Aug 27 21:28 India Standard Time
+"VirtualClockTest.ResetSetsTimeToZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/37 Testing: ConfigManagerTest.LoadsExistingConfigurationFile
+19/37 Test: ConfigManagerTest.LoadsExistingConfigurationFile
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=ConfigManagerTest.LoadsExistingConfigurationFile" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"ConfigManagerTest.LoadsExistingConfigurationFile" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ConfigManagerTest.LoadsExistingConfigurationFile
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ConfigManagerTest
+[ RUN      ] ConfigManagerTest.LoadsExistingConfigurationFile
+[       OK ] ConfigManagerTest.LoadsExistingConfigurationFile (0 ms)
+[----------] 1 test from ConfigManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ConfigManagerTest.LoadsExistingConfigurationFile" end time: Aug 27 21:28 India Standard Time
+"ConfigManagerTest.LoadsExistingConfigurationFile" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/37 Testing: ConfigManagerTest.RejectsMissingConfigurationFile
+20/37 Test: ConfigManagerTest.RejectsMissingConfigurationFile
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=ConfigManagerTest.RejectsMissingConfigurationFile" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"ConfigManagerTest.RejectsMissingConfigurationFile" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ConfigManagerTest.RejectsMissingConfigurationFile
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ConfigManagerTest
+[ RUN      ] ConfigManagerTest.RejectsMissingConfigurationFile
+[       OK ] ConfigManagerTest.RejectsMissingConfigurationFile (0 ms)
+[----------] 1 test from ConfigManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ConfigManagerTest.RejectsMissingConfigurationFile" end time: Aug 27 21:28 India Standard Time
+"ConfigManagerTest.RejectsMissingConfigurationFile" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/37 Testing: ConfigManagerTest.AcceptsValidTaskConfiguration
+21/37 Test: ConfigManagerTest.AcceptsValidTaskConfiguration
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=ConfigManagerTest.AcceptsValidTaskConfiguration" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"ConfigManagerTest.AcceptsValidTaskConfiguration" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ConfigManagerTest.AcceptsValidTaskConfiguration
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ConfigManagerTest
+[ RUN      ] ConfigManagerTest.AcceptsValidTaskConfiguration
+[       OK ] ConfigManagerTest.AcceptsValidTaskConfiguration (0 ms)
+[----------] 1 test from ConfigManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ConfigManagerTest.AcceptsValidTaskConfiguration" end time: Aug 27 21:28 India Standard Time
+"ConfigManagerTest.AcceptsValidTaskConfiguration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/37 Testing: ConfigManagerTest.RejectsEmptyTaskConfiguration
+22/37 Test: ConfigManagerTest.RejectsEmptyTaskConfiguration
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=ConfigManagerTest.RejectsEmptyTaskConfiguration" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"ConfigManagerTest.RejectsEmptyTaskConfiguration" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ConfigManagerTest.RejectsEmptyTaskConfiguration
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ConfigManagerTest
+[ RUN      ] ConfigManagerTest.RejectsEmptyTaskConfiguration
+[       OK ] ConfigManagerTest.RejectsEmptyTaskConfiguration (0 ms)
+[----------] 1 test from ConfigManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ConfigManagerTest.RejectsEmptyTaskConfiguration" end time: Aug 27 21:28 India Standard Time
+"ConfigManagerTest.RejectsEmptyTaskConfiguration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/37 Testing: ConfigManagerTest.RejectsInvalidTaskPriority
+23/37 Test: ConfigManagerTest.RejectsInvalidTaskPriority
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=ConfigManagerTest.RejectsInvalidTaskPriority" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"ConfigManagerTest.RejectsInvalidTaskPriority" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ConfigManagerTest.RejectsInvalidTaskPriority
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ConfigManagerTest
+[ RUN      ] ConfigManagerTest.RejectsInvalidTaskPriority
+[       OK ] ConfigManagerTest.RejectsInvalidTaskPriority (0 ms)
+[----------] 1 test from ConfigManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ConfigManagerTest.RejectsInvalidTaskPriority" end time: Aug 27 21:28 India Standard Time
+"ConfigManagerTest.RejectsInvalidTaskPriority" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/37 Testing: TaskTest.CreatesSensorTaskCorrectly
+24/37 Test: TaskTest.CreatesSensorTaskCorrectly
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskTest.CreatesSensorTaskCorrectly" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskTest.CreatesSensorTaskCorrectly" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskTest.CreatesSensorTaskCorrectly
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskTest
+[ RUN      ] TaskTest.CreatesSensorTaskCorrectly
+[       OK ] TaskTest.CreatesSensorTaskCorrectly (0 ms)
+[----------] 1 test from TaskTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TaskTest.CreatesSensorTaskCorrectly" end time: Aug 27 21:28 India Standard Time
+"TaskTest.CreatesSensorTaskCorrectly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/37 Testing: TaskTest.CreatesControlTaskCorrectly
+25/37 Test: TaskTest.CreatesControlTaskCorrectly
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskTest.CreatesControlTaskCorrectly" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskTest.CreatesControlTaskCorrectly" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskTest.CreatesControlTaskCorrectly
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskTest
+[ RUN      ] TaskTest.CreatesControlTaskCorrectly
+[       OK ] TaskTest.CreatesControlTaskCorrectly (0 ms)
+[----------] 1 test from TaskTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TaskTest.CreatesControlTaskCorrectly" end time: Aug 27 21:28 India Standard Time
+"TaskTest.CreatesControlTaskCorrectly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/37 Testing: TaskTest.CreatesSafetyTaskCorrectly
+26/37 Test: TaskTest.CreatesSafetyTaskCorrectly
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskTest.CreatesSafetyTaskCorrectly" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskTest.CreatesSafetyTaskCorrectly" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskTest.CreatesSafetyTaskCorrectly
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskTest
+[ RUN      ] TaskTest.CreatesSafetyTaskCorrectly
+[       OK ] TaskTest.CreatesSafetyTaskCorrectly (0 ms)
+[----------] 1 test from TaskTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TaskTest.CreatesSafetyTaskCorrectly" end time: Aug 27 21:28 India Standard Time
+"TaskTest.CreatesSafetyTaskCorrectly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/37 Testing: TaskTest.InitialRemainingTimeMatchesExecutionTime
+27/37 Test: TaskTest.InitialRemainingTimeMatchesExecutionTime
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskTest.InitialRemainingTimeMatchesExecutionTime" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskTest.InitialRemainingTimeMatchesExecutionTime" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskTest.InitialRemainingTimeMatchesExecutionTime
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskTest
+[ RUN      ] TaskTest.InitialRemainingTimeMatchesExecutionTime
+[       OK ] TaskTest.InitialRemainingTimeMatchesExecutionTime (0 ms)
+[----------] 1 test from TaskTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TaskTest.InitialRemainingTimeMatchesExecutionTime" end time: Aug 27 21:28 India Standard Time
+"TaskTest.InitialRemainingTimeMatchesExecutionTime" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/37 Testing: TaskTest.ExecutesTaskAndUpdatesRemainingTime
+28/37 Test: TaskTest.ExecutesTaskAndUpdatesRemainingTime
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskTest.ExecutesTaskAndUpdatesRemainingTime" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskTest.ExecutesTaskAndUpdatesRemainingTime" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskTest.ExecutesTaskAndUpdatesRemainingTime
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskTest
+[ RUN      ] TaskTest.ExecutesTaskAndUpdatesRemainingTime
+[       OK ] TaskTest.ExecutesTaskAndUpdatesRemainingTime (0 ms)
+[----------] 1 test from TaskTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TaskTest.ExecutesTaskAndUpdatesRemainingTime" end time: Aug 27 21:28 India Standard Time
+"TaskTest.ExecutesTaskAndUpdatesRemainingTime" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/37 Testing: TaskTest.TaskCompletesWhenExecutionTimeIsFinished
+29/37 Test: TaskTest.TaskCompletesWhenExecutionTimeIsFinished
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskTest.TaskCompletesWhenExecutionTimeIsFinished" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskTest.TaskCompletesWhenExecutionTimeIsFinished" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskTest.TaskCompletesWhenExecutionTimeIsFinished
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskTest
+[ RUN      ] TaskTest.TaskCompletesWhenExecutionTimeIsFinished
+[       OK ] TaskTest.TaskCompletesWhenExecutionTimeIsFinished (0 ms)
+[----------] 1 test from TaskTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TaskTest.TaskCompletesWhenExecutionTimeIsFinished" end time: Aug 27 21:28 India Standard Time
+"TaskTest.TaskCompletesWhenExecutionTimeIsFinished" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/37 Testing: TaskTest.ResetExecutionMakesTaskReady
+30/37 Test: TaskTest.ResetExecutionMakesTaskReady
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskTest.ResetExecutionMakesTaskReady" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskTest.ResetExecutionMakesTaskReady" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskTest.ResetExecutionMakesTaskReady
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskTest
+[ RUN      ] TaskTest.ResetExecutionMakesTaskReady
+[       OK ] TaskTest.ResetExecutionMakesTaskReady (0 ms)
+[----------] 1 test from TaskTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TaskTest.ResetExecutionMakesTaskReady" end time: Aug 27 21:28 India Standard Time
+"TaskTest.ResetExecutionMakesTaskReady" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/37 Testing: TaskTest.TaskPriorityCanBeUpdated
+31/37 Test: TaskTest.TaskPriorityCanBeUpdated
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskTest.TaskPriorityCanBeUpdated" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskTest.TaskPriorityCanBeUpdated" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskTest.TaskPriorityCanBeUpdated
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskTest
+[ RUN      ] TaskTest.TaskPriorityCanBeUpdated
+[       OK ] TaskTest.TaskPriorityCanBeUpdated (0 ms)
+[----------] 1 test from TaskTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TaskTest.TaskPriorityCanBeUpdated" end time: Aug 27 21:28 India Standard Time
+"TaskTest.TaskPriorityCanBeUpdated" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/37 Testing: TaskManagerTest.AddsTasksSuccessfully
+32/37 Test: TaskManagerTest.AddsTasksSuccessfully
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskManagerTest.AddsTasksSuccessfully" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskManagerTest.AddsTasksSuccessfully" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskManagerTest.AddsTasksSuccessfully
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskManagerTest
+[ RUN      ] TaskManagerTest.AddsTasksSuccessfully
+[       OK ] TaskManagerTest.AddsTasksSuccessfully (0 ms)
+[----------] 1 test from TaskManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TaskManagerTest.AddsTasksSuccessfully" end time: Aug 27 21:28 India Standard Time
+"TaskManagerTest.AddsTasksSuccessfully" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/37 Testing: TaskManagerTest.FindsTaskById
+33/37 Test: TaskManagerTest.FindsTaskById
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskManagerTest.FindsTaskById" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskManagerTest.FindsTaskById" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskManagerTest.FindsTaskById
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskManagerTest
+[ RUN      ] TaskManagerTest.FindsTaskById
+[       OK ] TaskManagerTest.FindsTaskById (0 ms)
+[----------] 1 test from TaskManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TaskManagerTest.FindsTaskById" end time: Aug 27 21:28 India Standard Time
+"TaskManagerTest.FindsTaskById" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/37 Testing: TaskManagerTest.ReturnsNullForUnknownTaskId
+34/37 Test: TaskManagerTest.ReturnsNullForUnknownTaskId
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskManagerTest.ReturnsNullForUnknownTaskId" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskManagerTest.ReturnsNullForUnknownTaskId" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskManagerTest.ReturnsNullForUnknownTaskId
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskManagerTest
+[ RUN      ] TaskManagerTest.ReturnsNullForUnknownTaskId
+[       OK ] TaskManagerTest.ReturnsNullForUnknownTaskId (0 ms)
+[----------] 1 test from TaskManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TaskManagerTest.ReturnsNullForUnknownTaskId" end time: Aug 27 21:28 India Standard Time
+"TaskManagerTest.ReturnsNullForUnknownTaskId" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/37 Testing: TaskManagerTest.RemovesTaskSuccessfully
+35/37 Test: TaskManagerTest.RemovesTaskSuccessfully
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskManagerTest.RemovesTaskSuccessfully" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskManagerTest.RemovesTaskSuccessfully" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskManagerTest.RemovesTaskSuccessfully
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskManagerTest
+[ RUN      ] TaskManagerTest.RemovesTaskSuccessfully
+[       OK ] TaskManagerTest.RemovesTaskSuccessfully (0 ms)
+[----------] 1 test from TaskManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TaskManagerTest.RemovesTaskSuccessfully" end time: Aug 27 21:28 India Standard Time
+"TaskManagerTest.RemovesTaskSuccessfully" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/37 Testing: TaskManagerTest.ReturnsFalseWhenRemovingUnknownTask
+36/37 Test: TaskManagerTest.ReturnsFalseWhenRemovingUnknownTask
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskManagerTest.ReturnsFalseWhenRemovingUnknownTask" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskManagerTest.ReturnsFalseWhenRemovingUnknownTask" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskManagerTest.ReturnsFalseWhenRemovingUnknownTask
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskManagerTest
+[ RUN      ] TaskManagerTest.ReturnsFalseWhenRemovingUnknownTask
+[       OK ] TaskManagerTest.ReturnsFalseWhenRemovingUnknownTask (0 ms)
+[----------] 1 test from TaskManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TaskManagerTest.ReturnsFalseWhenRemovingUnknownTask" end time: Aug 27 21:28 India Standard Time
+"TaskManagerTest.ReturnsFalseWhenRemovingUnknownTask" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/37 Testing: TaskManagerTest.ReturnsTasksReadyForRelease
+37/37 Test: TaskManagerTest.ReturnsTasksReadyForRelease
+Command: "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests.exe" "--gtest_filter=TaskManagerTest.ReturnsTasksReadyForRelease" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler
+"TaskManagerTest.ReturnsTasksReadyForRelease" start time: Aug 27 21:28 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\BHUVANASHREE T\Desktop\AutomotiveScheduler\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TaskManagerTest.ReturnsTasksReadyForRelease
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TaskManagerTest
+[ RUN      ] TaskManagerTest.ReturnsTasksReadyForRelease
+[       OK ] TaskManagerTest.ReturnsTasksReadyForRelease (0 ms)
+[----------] 1 test from TaskManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TaskManagerTest.ReturnsTasksReadyForRelease" end time: Aug 27 21:28 India Standard Time
+"TaskManagerTest.ReturnsTasksReadyForRelease" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 27 21:28 India Standard Time

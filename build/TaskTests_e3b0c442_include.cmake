@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests_e3b0c442_tests.cmake")
+  include("C:/Users/BHUVANASHREE T/Desktop/AutomotiveScheduler/build/TaskTests_e3b0c442_tests.cmake")
+else()
+  add_test(TaskTests_NOT_BUILT TaskTests_NOT_BUILT)
+endif()
